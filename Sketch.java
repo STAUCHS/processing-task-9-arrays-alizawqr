@@ -7,7 +7,6 @@ public class Sketch extends PApplet {
   float[] snowY = new float [42];
   boolean [] ballHideStatus = new boolean[42];
   int snowDiameter = 10;
-  int snowSpeed = 3;
 
   // Circle coordinates
   float circleX = 200;
